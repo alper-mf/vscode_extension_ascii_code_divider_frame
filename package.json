@@ -1,8 +1,14 @@
 {
-  "name": "asciicodedivider",
-  "displayName": "Ascii Code Divider",
-  "description": "ASCII Code Divider is a Visual Studio Code extension that helps you better organize your code by creating clear distinctions between comments and headers. It allows you to surround your headers with stylish ASCII frames, dividing your code and enhancing readability. With this extension, you can create a clear separation between comments, sections, and headers, reducing clutter and improving your coding experience. ASCII Code Divider is the perfect tool to make your code more structured and understandable.",
+  "name": "asciicodedividerframe",
+  "displayName": "Ascii Code Divider Frame",
+  "description": "ASCII Code Divider Frame is a Visual Studio Code extension that helps you better organize your code by creating clear distinctions between comments and headers. It allows you to surround your headers with stylish ASCII frames, dividing your code and enhancing readability. With this extension, you can create a clear separation between comments, sections, and headers, reducing clutter and improving your coding experience. ASCII Code Divider is the perfect tool to make your code more structured and understandable.",
   "version": "0.0.1",
+  "license": "MIT",
+  "publisher": "AlperDuzgun",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alper-mf/vscode_extension_ascii_code_divider_frame.git"
+  },
   "engines": {
     "vscode": "^1.84.0"
   },

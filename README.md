@@ -17,6 +17,16 @@
 
 The selected text, along with your description, will be transformed into an ASCII frame and will appear in your code.
 
+## Example
+
+```
+  /*
+╔══════════════════════════════════════╗
+║   YOUR EXAMPLE TITLE HERE STARTING   ║
+╚══════════════════════════════════════╝
+*/
+```
+
 ## Installation
 
 1. To install the extension in **VS Code**, open the **Extensions** view (`Ctrl+Shift+X` or `Cmd+Shift+X`).
